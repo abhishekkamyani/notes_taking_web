@@ -1,0 +1,16 @@
+.bg-cgreen{
+    background-color: rgb(217, 224, 0);
+}
+
+.card{
+    width: 240px;
+    height: 223px;
+    transition: all 1s ease-in-out;
+}
+/* .card:hover{
+    transform: scale(-0.1);
+} */
+
+.badge{
+    cursor: pointer;
+}
